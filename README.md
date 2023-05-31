@@ -12,8 +12,10 @@ The dataset used in this project is quite large (1.46GB) and is not included in 
 
 
 ## Installation & Usage
+
 Ensure you have Python 3.10, TensorFlow 2.10, and other necessary libraries installed. Clone this repository, navigate to the project directory and run the scripts for training and validation. Make sure to adjust the paths in the code where your dataset resides.
 
 
-##More Information
+## More Information
+
 For a detailed analysis and explanation, refer to the project report.
