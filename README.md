@@ -1,6 +1,6 @@
 # Deep Learning Image Classification: A Comparative Study
 
-##Overview
+## Overview
 
 This project is a comprehensive investigation into deep learning models for image classification. We focus on the performances of pre-trained ResNet50, a custom-trained EfficientNetB0, and an EfficientNetB0 fine-tuned via transfer learning, aiming to provide clarity into the field of deep learning for image classification.
 
